@@ -1,0 +1,64 @@
+/* Styles for the form container */
+.form-container {
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+/* Styles for form inputs */
+.input-field {
+    width: 100%;
+    margin-bottom: 10px;
+    padding: 8px;
+    font-size: 16px;
+}
+
+/* Styles for submit button */
+.submit-btn {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    margin-bottom: 10px;
+}
+
+/* Styles for error message */
+.error-message {
+    color: red;
+}
+
+/* Styles for the table */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    
+}
+
+th, td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+    
+}
+
+th {
+    background-color: #000000;
+}
+
+tr:hover {
+    background-color: #810a5d;
+}
+
+/* Styles for buttons */
+.edit-btn,
+.delete-btn {
+    background-color: #2196F3;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+    margin-right: 5px;
+}
+.delete-btn {
+    background-color: #f44336;
+}
