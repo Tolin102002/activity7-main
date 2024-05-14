@@ -105,7 +105,7 @@ function ReactForm() {
                     <tr>
                         <th>Name</th>
                         <th>Age</th>
-                        <th>Email</th>
+                        <th></th>
                         <th>Actions</th>
                     </tr>
                 </thead>
